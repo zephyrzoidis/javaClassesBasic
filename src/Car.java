@@ -4,6 +4,7 @@ public class Car {
     private int miles;
     private String model;
 
+
     public Car(int year, String make, String model) {
         this.year = year;
         this.make = make;

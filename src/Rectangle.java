@@ -23,6 +23,7 @@ public class Rectangle {
 //        this.width = width * 2;
 //    }
 
+
     public double getArea(){
         double area = length * width;
         return area;
